@@ -1,0 +1,1 @@
+(grep -r -c AELD_IS_FUN /tmp/aeld-data | wc -l) (find /tmp/aeld-data -type f -print0 | xargs -0 grep -l AELD_IS_FUN | wc -l) The number of files are 10 and the number of matching lines are 10

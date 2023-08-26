@@ -5,3 +5,7 @@
 	path = submodules/buildroot
 	url = https://github.com/buildroot/buildroot.git
 	branch = 2022.02.x
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/buildroot/buildroot.git
+	branch = 2022.02.x
